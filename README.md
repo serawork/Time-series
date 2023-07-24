@@ -4,5 +4,5 @@
 - **For ML model training convert the training data to reflect time series, i.e, add t-1, t-2,..., t-n as features**
 - **Check the training result and improve performance**
 - **Tune best model**
-- **Test and deployed model**
+- **Test and deploy model**
 - **Write documentation**
