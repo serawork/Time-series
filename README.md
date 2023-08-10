@@ -1,6 +1,6 @@
 # Air Quality Index Prediction and EDA
 
-Check notebooks `aqi_prediction-1station.ipynb` and `aqi_prediction_allStations.ipynb` for explanations.
+Checkout notebooks `aqi_prediction-1station.ipynb` and `aqi_prediction_allStations.ipynb` for explanations.
 
 ## Things To-Do
 
